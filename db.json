@@ -1,0 +1,127 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "pokemon": [
+    {
+      "squirtle": [
+        {
+          "ability": [
+            "stench"
+          ],
+          "type": [
+            "flying",
+            "fighting"
+          ],
+          "move": [
+            "double-slap",
+            "comet-punch"
+          ],
+          "shape": [
+            "flying",
+            "fighting"
+          ]
+        }
+      ],
+      "id": 1
+    },
+    {
+      "charmander": [
+        {
+          "ability": [
+            "stench",
+            "drizzle",
+            "speed-boost"
+          ],
+          "type": [
+            "normal"
+          ],
+          "move": [
+            "pound"
+          ],
+          "shape": [
+            "ball",
+            "normal"
+          ]
+        }
+      ],
+      "id": 2
+    },
+    {
+      "wartortle": [
+        {
+          "ability": [
+            "static"
+          ],
+          "type": [
+            "steel"
+          ],
+          "move": [
+            "scratch"
+          ],
+          "shape": [
+            "squiggle"
+          ]
+        }
+      ],
+      "id": 3
+    },
+    {
+      "charizard": [
+        {
+          "ability": [
+            "stench",
+            "drizzle"
+          ],
+          "type": [],
+          "move": [],
+          "shape": []
+        }
+      ],
+      "id": 4
+    },
+    {
+      "blastoise": [
+        {
+          "ability": [
+            "chlorophyll",
+            "swift-swim",
+            "stench",
+            "drizzle",
+            "speed-boost"
+          ],
+          "type": [
+            "normal",
+            "fighting",
+            "flying"
+          ],
+          "move": [
+            "pound",
+            "karate-chop",
+            "double-slap"
+          ],
+          "shape": [
+            "ball",
+            "squiggle",
+            "fish"
+          ]
+        }
+      ],
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
