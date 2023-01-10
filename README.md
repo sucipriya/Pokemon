@@ -15,10 +15,10 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ### `To Run the Application`
-Extract Project
-npm install
-npm run start: To run the application
-npm run serve-json: To run the database
+Extract Project \
+npm install \
+npm run start: To run the application \
+npm run serve-json: To run the database \
 
 ### `npm test`
 
